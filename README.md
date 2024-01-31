@@ -80,16 +80,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tanvir-mahmud-tamim-968786264/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahabub-devs-b44748254/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/TanvirMahmudTamim.5" target="_blank">
+  <a href="https://www.facebook.com/mahabubdevs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="+8801772280747" target="_blank">
+  <a href="+8801634593710" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="tamim8420" target="_blank">
+  <a href="mdmahabubrahman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
