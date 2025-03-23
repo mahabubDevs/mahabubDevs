@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mahabub
-#### I am a MERN Stack Full Web Developer with WordPress and Shopify
-![I am a MERN Stack Full Web Developer with WordPress and Shopify](https://media.licdn.com/dms/image/v2/D5616AQFy0rEY5_COLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709044296369?e=1742428800&v=beta&t=8O6HFfykXavA6FUfKzF0WKX3ZSwtVx-qVenZU_7SpMU)
+#### I am a MERN Stack  Web Developer 
+![I am a MERN Stack  Web Developer]([https://media.licdn.com/dms/image/v2/D5616AQFy0rEY5_COLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709044296369?e=1742428800&v=beta&t=8O6HFfykXavA6FUfKzF0WKX3ZSwtVx-qVenZU_7SpMU](https://www.facebook.com/photo/?fbid=122118596762207700&set=a.122114256602207700))
 
 Highly motivated and enthusiastic fresher MERN
 (MongoDB, Express.js, React.js, Node.js) developer
