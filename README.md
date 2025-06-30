@@ -2,8 +2,6 @@
 
 #### 🚀 Backend Developer | MERN Stack Developer | Microservices Enthusiast
 
-![Backend Developer Banner](https://media.licdn.com/dms/image/D5616AQFy0rEY5_COLQ/profile-displaybackgroundimage-shrink_350_1400/0/1709044296369?e=1742428800&v=beta&t=8O6HFfykXavA6FUfKzF0WKX3ZSwtVx-qVenZU_7SpMU)
-
 ---
 
 ### 👨‍💻 About Me
@@ -50,7 +48,6 @@ I completed a 1-year intensive MERN Stack Development course from **Creative IT 
 
 ### 🏆 GitHub Stats
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mahabubDevs&theme=onestar&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubDevs&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahabubDevs&show_icons=true&theme=radical)
