@@ -16,13 +16,14 @@ I completed a 1-year intensive MERN Stack Development course from **Creative IT 
 
 ### 💡 What I Do
 
-- 🔭 Currently working on a **Backend for an E-commerce platform**
-- ⚙️ Skilled in **RESTful API**, **Microservices**, **Authentication**, and **Database Design**
-- 🛠️ Actively using:
-  - **Node.js**, **Express.js**
-  - **NestJS**, **Prisma**, **MongoDB**, **PostgreSQL**
-  - **JavaScript**, **TypeScript**, **HTML/CSS**
-- 🌱 Currently exploring advanced **Backend Patterns**, **RabbitMQ**, and **Docker**
+- 🔭 Currently working on a **Job Engine AI Project** using **NestJS Microservices Architecture**
+- 🛠️ Building distributed backend systems with:
+  - **NestJS**, **Redis Message Queue**, **PostgreSQL**, and **Prisma**
+  - **Task Scheduling**, **Job Processing**, and **Event-driven Communication**
+- 🤖 Exploring the integration of **AI-driven automation** and intelligent job assignment
+- ⚙️ Focused on building **scalable, high-performance backend APIs** with proper service separation
+- 🧠 Continuously improving my backend architecture, message queues, and performance optimization skills
+
 
 ---
 
