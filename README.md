@@ -1,38 +1,71 @@
-### Hi there 👋, My name is Mahabub
-#### I am a MERN Stack  Web Developer 
-![I am a MERN Stack  Web Developer]([https://media.licdn.com/dms/image/v2/D5616AQFy0rEY5_COLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709044296369?e=1742428800&v=beta&t=8O6HFfykXavA6FUfKzF0WKX3ZSwtVx-qVenZU_7SpMU](https://www.facebook.com/photo/?fbid=122118596762207700&set=a.122114256602207700))
+### Hi there 👋, I'm Mahabub
 
-Highly motivated and enthusiastic fresher MERN
-(MongoDB, Express.js, React.js, Node.js) developer
-with a strong foundation in JavaScript and web
-development. A quick learner, eager to contribute to
-innovative projects and passionate about continuous
-learning in the dynamic field of web development.
-Ready to leverage technical skills and creativity to
-deliver efficient and user-friendly solutions as a
-valuable member of a collaborative development
-team.
+#### 🚀 Backend Developer | MERN Stack Developer | Microservices Enthusiast
 
-Skills: Node Js / Express Js / Mongodb / REACT / JS / HTML / CSS
+![Backend Developer Banner](https://media.licdn.com/dms/image/D5616AQFy0rEY5_COLQ/profile-displaybackgroundimage-shrink_350_1400/0/1709044296369?e=1742428800&v=beta&t=8O6HFfykXavA6FUfKzF0WKX3ZSwtVx-qVenZU_7SpMU)
 
-- 🔭 I’m currently working on backend Ecommerce website 
-- 🌱 I’m currently learning Backend Node js  
-- 👯 I’m looking to collaborate on Api use Chatting applicaton 
-- 💬 Ask me about React Js and Node Js  
+---
 
+### 👨‍💻 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahabubDevs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mahabub-rahman-b44748254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61556231027146)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahabubrahman719//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MdMahabubR25961)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@programmingmystrey?si=xsU5VBFid8v_YtuP)  
+I am a passionate **Backend Developer** with a strong foundation in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and recent hands-on experience in **Microservices Architecture using NestJS and PostgreSQL**.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+I’ve recently worked at **SMTechnology** as a Backend Developer, where I contributed to scalable API design and database management using **Prisma ORM** with **MongoDB and PostgreSQL**.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahabubDevs)](https://github.com/ryo-ma/github-profile-trophy)
+I completed a 1-year intensive MERN Stack Development course from **Creative IT Institute**, which solidified my fundamentals in full-stack development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubDevs)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubDevs&show_icons=true)  
+### 💡 What I Do
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahabubDevs/contributions?format=svg&private=false)  
+- 🔭 Currently working on a **Backend for an E-commerce platform**
+- ⚙️ Skilled in **RESTful API**, **Microservices**, **Authentication**, and **Database Design**
+- 🛠️ Actively using:
+  - **Node.js**, **Express.js**
+  - **NestJS**, **Prisma**, **MongoDB**, **PostgreSQL**
+  - **JavaScript**, **TypeScript**, **HTML/CSS**
+- 🌱 Currently exploring advanced **Backend Patterns**, **RabbitMQ**, and **Docker**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahabubDevs)  
+---
 
+### 🛠️ Tech Stack & Tools
+
+- **Backend:** Node.js, Express.js, NestJS  
+- **Database:** MongoDB, PostgreSQL, Prisma ORM  
+- **Frontend (basic):** React.js, HTML, CSS  
+- **Others:** Git, Postman, JWT, GitHub, VS Code, Figma
+
+---
+
+### 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahabubDevs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahabub-rahman-b44748254/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556231027146)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mahabubrahman719/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MdMahabubR25961)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@programmingmystrey)
+
+---
+
+### 🏆 GitHub Stats
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mahabubDevs&theme=onestar&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubDevs&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahabubDevs&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mahabubDevs&theme=dark)
+
+---
+
+### 🎯 Goals for 2025
+
+- Contribute to **Open Source Backend Projects**
+- Learn **Kafka / RabbitMQ / Event-driven architecture**
+- Deploy microservices using **Docker + Kubernetes**
+- Land a full-time role as a **Backend Developer (Node.js/NestJS)**
+
+---
+
+> 💬 *“Code is not just syntax — it's problem-solving.”*
 
